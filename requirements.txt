@@ -1,0 +1,14 @@
+Pomocou príkazu pip install nazov_balika alebo pomocou príkazu conda install -c anaconda nazov_balika je potrebné nainštalovať nasledovné balíky:
+- pandas
+- numpy
+- sklearn
+- tensorflow
+- keras
+- matplotlib
+- graphviz
+- pydot
+- pydotplus
+- bokeh
+- skimage
+- haliopy
+- aidapy
